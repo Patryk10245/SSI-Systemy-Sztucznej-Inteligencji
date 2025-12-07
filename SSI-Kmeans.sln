@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSI-Kmeans", "SSI-Kmeans.csproj", "{32A75436-BBB7-46BC-99E0-3AE749CA02FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A75436-BBB7-46BC-99E0-3AE749CA02FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A75436-BBB7-46BC-99E0-3AE749CA02FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A75436-BBB7-46BC-99E0-3AE749CA02FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A75436-BBB7-46BC-99E0-3AE749CA02FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
